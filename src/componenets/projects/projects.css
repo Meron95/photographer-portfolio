@@ -1,0 +1,17 @@
+.container {
+    padding-top: 30px;
+}
+
+hr {
+    max-width: 80%;
+    border-color: grey;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border: 0;
+    border-top: 1px solid #eee;
+    font-weight: bolder;
+    border: none;
+    height: 1px;
+    color: #a6a7a8;
+    background-color: #a6a7a8;
+}
