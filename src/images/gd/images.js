@@ -1,0 +1,28 @@
+const  IMAGES = {
+    img17: require("./17.jpg"),
+    img19: require("./19.jpg"),
+    img22: require("./22.jpg"),
+    img23: require("./23.jpg"),
+    img25: require("./25.jpg"),
+    img27: require("./27.jpg"),
+    img30: require("./30.jpg"),
+    img36: require("./36.jpg"),
+    img46: require("./46.jpg"),
+    img53: require("./53.jpg"),
+    img56: require("./56.jpg"),
+    img65: require("./65.jpg"),
+    img74: require("./74.jpg"),
+    img75: require("./75.jpg"),
+    img88: require("./88.jpg"),
+    img98: require("./98.jpg"),
+    img118: require("./118.jpg"),
+    img122: require("./122.jpg"),
+    img134: require("./134.jpg"),
+    img142: require("./142.jpg"),
+    img156: require("./156.jpg"),
+    img165: require("./165.jpg"),
+    img170: require("./170.jpg"),
+    img171: require("./171.jpg"),
+
+}
+export default IMAGES
