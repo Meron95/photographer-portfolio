@@ -1,6 +1,12 @@
 # photographer-portfolio
 A website that was designed for a photography portfolio requested by a customer.
 
+![foto_port1](https://github.com/Meron95/photographer-portfolio/assets/36710730/83fc4465-a7e5-4122-b001-931f37341d51)
+
+![foto_port3](https://github.com/Meron95/photographer-portfolio/assets/36710730/d6f848bc-276a-4da4-9be5-bc85a581495f)
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
